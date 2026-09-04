@@ -7,6 +7,8 @@
 ![Columns](https://img.shields.io/badge/Columns-30-3584e4?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Analysis%20Complete-62a0ea?style=for-the-badge)
 
+### 📊 [Live Dashboard →](https://app.powerbi.com/links/W5tAbF7H_3?ctid=77255288-5298-4ea5-81aa-a13e604c30ac&pbi_source=linkShare)
+ 
 ---
 
 ## 🧃 About the Project
