@@ -117,6 +117,15 @@ We explored the data across five lenses, each answering a key business question:
 
 ---
 
+### 📊 Dashboards
+
+![B.Laban Overview Dashboard](images/overview.jpeg)
+
+![B.Laban Customers & Products Dashboard](images/customers%20&%20products.jpeg)
+
+![B.Laban Operations & Environment Dashboard](images/operations%20&%20environment.jpeg)
+
+---
 
 ## 👩‍💻 Meet the Team
 
