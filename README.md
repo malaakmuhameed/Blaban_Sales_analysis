@@ -116,6 +116,11 @@ We explored the data across five lenses, each answering a key business question:
 | 04 | Members show higher business value | 💎 Strengthen loyalty programs to retain top customers |
 
 ---
+## Dashboard
+
+![B.Laban Overview Dashboard]("H:\NTI data analysis\Project\final\overview.jpeg")
+![B.Laban Customers & Products Dashboard]("H:\NTI data analysis\Project\final\customers & products.jpeg")
+![B.Laban Operations & Environment Dashboard](""H:\NTI data analysis\Project\final\operations & environment.jpeg"")
 
 ## 👩‍💻 Meet the Team
 
